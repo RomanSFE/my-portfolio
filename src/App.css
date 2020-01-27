@@ -36,3 +36,322 @@
     transform: rotate(360deg);
   }
 }
+/* My Css Code */
+/* Menu start */
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+}
+header.header-main {
+  background-color: #2d2b2b;
+  height: 65px;
+}
+
+.mainmenu {
+  display: block;
+  text-align: center;
+}
+
+.mainmenu ul {
+  list-style: none;
+}
+
+.mainmenu ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.mainmenu ul li a {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #ecebeb;
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+}
+.mainmenu ul li a:hover {
+  color: #fff;
+}
+/* Menu end */
+/* About start */
+.about-section-bg {
+  background-image: url(./assets/about-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 210px;
+}
+.about-img-title {
+  padding: 4px;
+  margin-top: -125px;
+  background: linear-gradient(to right, rgb(191, 223, 226), #32DCB6 );
+}
+.about-img-title-bg {
+  background-color: #fff;
+  padding: 4px;
+}
+.my-image img {
+  width: 230px;
+  height: 240px;
+  border-radius: 50%;
+  border: 2px solid #d3d6d5;
+}
+.my-image {
+  display: block;
+  text-align: center;
+}
+.about-me-txt {
+  margin-top: 15px;
+  padding: 8px;
+}
+.about-me-txt h3 {
+  color: #403f3f;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 23px;
+}
+.about-me-txt h4 {
+  font-size: 21px;
+  color: #525050;
+}
+.about-me-con {
+  margin-top: -6px;
+  padding: 8px;
+}
+.about-me-con p {
+  color: #545353;
+  font-size: 14px;
+  line-height: 0px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.about-me-con i.fa {
+  color: #5876b7;
+  margin-right: 7px;
+}
+
+/* progress skill */
+.progress-bar {
+  background-color: #ebebeb !important;
+  height: 7px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.progress-bar span {
+  display: inline-block;
+  height: 100%;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+  transition: width .4s ease-in-out;    
+}
+.blue span { 
+  background-image: linear-gradient(-86deg, #5151e5 0%, #72edf2 100%);  
+}
+.progress-section p {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+.skill-progress {
+  margin-bottom: 10px;
+  margin-top: 2px;
+  padding: 8px;
+}
+/* progress skill */
+/* About description */
+.about-desc {
+  padding: 8px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  background: linear-gradient(to right, rgb(191, 223, 226), #32DCB6 );
+}
+.about-desc-bg {
+  background-color: #fff;
+  padding: 8px;
+}
+.about-desc-textt h3 {
+  color: #636161;
+  text-transform: uppercase;
+  font-size: 21px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.about-desc-bg {
+  padding: 16px;
+}
+
+.about-desc-textt p {
+  color: #5a5a5a;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 23px;
+}
+/* about skills */
+.about-skills {
+  padding: 4px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  background: linear-gradient(to right, rgb(191, 223, 226), #32DCB6 );
+}
+.about-skills-bg {
+  background-color: #fff;
+  padding: 4px;
+}
+.about-skills-txtt h3 {
+  color: #504f4f;
+  text-transform: uppercase;
+  font-size: 19px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  border-bottom: 2px solid #5fb5a1;
+  padding: 3px;
+}
+.about-edu h3 {
+  color: #504f4f;
+  text-transform: uppercase;
+  font-size: 19px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  border-bottom: 2px solid #5fb5a1;
+  padding: 3px;
+}
+
+.about-skills-txtt {
+  padding: 8px;
+}
+
+.about-skills-txtt p {
+  color: #272727;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 26px;
+}
+.about-edu h4 {
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: #505050;
+}
+
+.about-edu p {
+  font-size: 14px;
+  color: #272727;
+  line-height: 18px;
+  font-weight: 500;
+}
+/* About page end */
+
+/* Full Website page start */
+.fullwebsite-section-bg {
+  background-image: url(./assets/about-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 210px;
+}
+.website-img img {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
+.single-item-details {
+  position: absolute;
+  bottom: 30px;
+  color: #fff;
+}
+.website-single-item {
+  margin-top: 30px;
+}
+.web-btn {
+  background: #28d2a1;
+  width: 190px;
+  height: 37px;
+  border-radius: 5px;
+  opacity: .9;
+}
+.web-btn a {
+  text-align: center;
+  display: block;
+  padding-top: 6px;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+.web-btn a:hover {
+  color: #000;
+  transition: .3s;
+}
+.single-item-details {
+  background: #232323;
+  width: 95%;
+  height: 89px;
+  opacity: 0.9;
+  position: absolute;
+  bottom: 0;
+  visibility: hidden;
+}
+.website-single-item:hover .single-item-details {
+  visibility: visible;
+  transition: .3s;
+}
+.web-single-txt {
+  margin-left: 20px;
+}
+
+.web-single-txt p {
+  color: #fbfbfb;
+  letter-spacing: 0.5px;
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 9px;
+}
+/* Full Website page end */
+
+/* Website section page start */
+.website-sectionn-bg {
+  background-image: url(./assets/about-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 210px;
+}
+/* Website section page end */
+
+/* React section page start */
+.react-screen-section-bg {
+  background-image: url(./assets/about-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 210px;
+}
+/* React section page end */
+
+/* React Native section page start */
+.react-native-screen-section-bg {
+  background-image: url(./assets/about-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 210px;
+}
+/* React Native section page end */
+
+/* React Native section page start */
+.uiux-screen-section-bg {
+  background-image: url(./assets/about-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 210px;
+}
+/* React Native section page end */
