@@ -21,14 +21,14 @@ class UiuxScreen extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/ddd.jpg')} alt=""/>
+                                        <img src={require('../assets/uiux1.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
-                                            <div className="web-btn">
+                                            <p>Aliexpress - Mobile App UI Redesign <br/> [1]</p>
+                                            {/* <div className="web-btn">
                                                 <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>
@@ -36,14 +36,14 @@ class UiuxScreen extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/ddd.jpg')} alt=""/>
+                                        <img src={require('../assets/uiux2.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
-                                            <div className="web-btn">
+                                            <p>Aliexpress - Mobile App UI Redesign <br/> [2]</p>
+                                            {/* <div className="web-btn">
                                                 <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>
@@ -54,14 +54,11 @@ class UiuxScreen extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/bb.png')} alt=""/>
+                                        <img src={require('../assets/uiux3.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
-                                            <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
-                                            </div>
+                                            <p>Aliexpress - Mobile App UI Redesign <br/> [3]</p>
                                         </div>
                                     </div>
                                 </div>
@@ -69,14 +66,11 @@ class UiuxScreen extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/ddd.jpg')} alt=""/>
+                                        <img src={require('../assets/uiux4.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
-                                            <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
-                                            </div>
+                                            <p>Full Business Website UI Design <br/></p>
                                         </div>
                                     </div>
                                 </div>

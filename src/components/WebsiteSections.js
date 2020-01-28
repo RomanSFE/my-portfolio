@@ -21,13 +21,13 @@ class WebsiteSections extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/bb.png')} alt=""/>
+                                        <img src={require('../assets/section1.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
+                                            <p>Footer Area. html, css, js, bootstrap</p>
                                             <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
+                                                <a rel="noopener noreferrer" href={`https://postman-kangaroo-12880.netlify.com/`} target="_blank">Live Demo</a>
                                             </div>
                                         </div>
                                     </div>
@@ -36,13 +36,13 @@ class WebsiteSections extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/ddd.jpg')} alt=""/>
+                                        <img src={require('../assets/section2.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
+                                            <p>Image show in different style</p>
                                             <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
+                                                <a rel="noopener noreferrer" href={`https://pump-attendant-camel-87750.netlify.com/`} target="_blank">Live Demo</a>
                                             </div>
                                         </div>
                                     </div>
@@ -54,13 +54,13 @@ class WebsiteSections extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/bb.png')} alt=""/>
+                                        <img src={require('../assets/section3.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
+                                            <p>Full width video section</p>
                                             <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
+                                                <a rel="noopener noreferrer" href={`https://librarian-isabel-67474.netlify.com/`} target="_blank">Live Demo</a>
                                             </div>
                                         </div>
                                     </div>
@@ -69,13 +69,13 @@ class WebsiteSections extends Component {
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/ddd.jpg')} alt=""/>
+                                        <img src={require('../assets/section4.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Lorem ipsum dolor sit amet.</p>
+                                            <p>Collapse section</p>
                                             <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://facebook.com`} target="_blank">Live Demo</a>
+                                                <a rel="noopener noreferrer" href={`https://maid-toad-33762.netlify.com/`} target="_blank">Live Demo</a>
                                             </div>
                                         </div>
                                     </div>
