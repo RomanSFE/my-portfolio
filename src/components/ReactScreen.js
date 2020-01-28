@@ -4,7 +4,7 @@ class ReactScreen extends Component {
     render() {
         return (
             <div className="fullwebsite-section">
-                <div className="fullwebsite-section-bg">
+                <div className="react-website-section-bg">
                     <div className="container">
                         <div className="row">
                             {/* <h3>About Me</h3>

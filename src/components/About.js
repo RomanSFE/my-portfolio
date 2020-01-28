@@ -26,7 +26,7 @@ class About extends Component {
                                     </div>
                                     <div className="about-me-txt">
                                         <h3>Abdulla Al Roman</h3>
-                                        <h4>Professional Front-end & UI/UX Designer</h4>
+                                        <h4>Professional Front-end Developer & UI/UX Designer</h4>
                                     </div>
                                     <div className="about-me-con">
                                         <p><i className="fa fa-map-marker-alt"></i>Dhaka, Bangladesh</p>

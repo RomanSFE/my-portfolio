@@ -4,7 +4,7 @@ class ReactNativeScr extends Component {
     render() {
         return (
             <div className="fullwebsite-section">
-            <div className="fullwebsite-section-bg">
+            <div className="react-native-screen-section-bg">
                 <div className="container">
                     <div className="row">
                         {/* <h3>About Me</h3>
@@ -15,7 +15,10 @@ class ReactNativeScr extends Component {
                     </div>
                 </div>
             </div>
-            <div className="website-section-item">
+            <div className="tempo text-center">
+                <h2>Empty</h2>
+            </div>
+            {/* <div className="website-section-item">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 col-sm-6">
@@ -51,7 +54,7 @@ class ReactNativeScr extends Component {
                     </div>
 
                 </div>
-            </div>
+            </div> */}
         </div>
         )
     }
