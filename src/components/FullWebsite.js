@@ -99,21 +99,21 @@ class FullWebsite extends Component {
                                     </div>
                                 </div>
                             </div>
-                            {/* <div className="col-md-6 col-sm-6">
+                            <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
                                     <div className="website-img">
-                                        <img src={require('../assets/website4.jpg')} alt=""/>
+                                        <img src={require('../assets/website6.jpg')} alt=""/>
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Online Converter Website</p>
+                                            <p>Ecommerce Website Template</p>
                                             <div className="web-btn">
-                                                <a rel="noopener noreferrer" href={`https://upbeat-bhaskara-9657b3.netlify.com/index.html`} target="_blank">Live Demo</a>
+                                                <a rel="noopener noreferrer" href={`https://ecommerceprojecttest.netlify.com/`} target="_blank">Live Demo</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div> */}
+                            </div>
                         </div>
                     </div>
                 </div>

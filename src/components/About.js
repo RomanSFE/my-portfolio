@@ -65,7 +65,7 @@ class About extends Component {
                                     <div className="about-desc-bg">
                                         <div className="about-desc-textt">
                                             <h3>Experience</h3>
-                                            <p>I am a professional <strong> Front-End developer </strong> and <strong> UI/UX Designer </strong> with 1 year plus professional experience efficiently coding website design and 
+                                            <p>I am a professional <strong> Front-End developer </strong> and <strong> UI/UX Designer </strong> with 2 years plus professional experience efficiently coding website design and 
                                                 Single Page Application using modern <strong> HTML, CSS, 
                                                 Bootstrap, React js, React Native, Adobe photoshop and Adobe XD.</strong><br></br> <br></br>
 
@@ -92,7 +92,7 @@ class About extends Component {
                                         <div className="about-skills-txtt">
                                             <h3>Skills</h3>
                                             <p>Problem solving, React js, React Native, Redux, API, Bootstrap,
-                                                JavaScript, ES6, JQuery, HTML, CSS, SCSS, Flexbox, Firebase, WordPress,
+                                                JavaScript, ES6, JQuery, HTML, CSS, SCSS, Flexbox, Firebase, WordPress, UI/UX Design, 
                                                 Adobe Photoshop, Adobe XD, Figma.
                                             </p>
                                             <div className="about-edu">
