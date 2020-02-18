@@ -41,7 +41,7 @@ class UiuxScreen extends Component {
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>Get Started and Signup Login Page<br/> [2]</p>
+                                            <p>Get Started and Signup Login Screen<br/> [2]</p>
                                             <div className="web-btn-nolink">
                                                 <p>Adobe XD</p>
                                             </div>
