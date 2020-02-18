@@ -26,7 +26,7 @@ class UiuxScreen extends Component {
                                     </div>
                                     <div className="single-item-details">
                                         <div className="web-single-txt">
-                                            <p>TourPlaner - A Travel Mobile App <br/> From this app, users easily can predict their total tour costs [1]</p>
+                                            <p>TourPlaner - A Travel Mobile App <br/> From this app, users can predict their tour costs [1]</p>
                                             <div className="web-btn-nolink">
                                                 <p>Adobe XD</p>
                                             </div>
