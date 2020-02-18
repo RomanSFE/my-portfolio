@@ -76,8 +76,8 @@ class About extends Component {
                                                 and Mobile App using most popular Framework like Bootstrap, Semantic UI, React, 
                                                 React Native with SEO Optimize. <br></br> <br></br>
 
-                                                As a Front-end developer I think, UI/UX is an important part. And I am also a 
-                                                <strong>professional UI/UX Designer</strong>. I can design awesome and unique Website UI and also
+                                                As a Front-end developer I think, UI/UX is an important part. And I am also a <span></span> 
+                                                 <strong>professional UI/UX Designer</strong>. I can design awesome and unique Website UI and also
                                                 Mobile App UI with <strong> Adobe Photoshop, Adobe XD and Figma</strong>. As a UI/UX Designer, 
                                                 I always prefer to fix complex UI/UX design ideas.
                                                 

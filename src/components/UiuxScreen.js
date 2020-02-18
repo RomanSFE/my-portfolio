@@ -17,6 +17,172 @@ class UiuxScreen extends Component {
                 </div>
                 <div className="website-section-item">
                     <div className="container">
+
+                        <div className="row">
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux15.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>TourPlaner - A Travel Mobile App <br/> From this app, users easily can predict their total tour costs [1]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux16.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Get Started and Signup Login Page<br/> [2]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="row">
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux17.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Signup and Mobile Verification Screen <br/> [3]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux18.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Home and Place Details Screen<br/> [4]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="row">
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux19.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Profile Screen <br/> [5]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux20.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Profile Edit Screen<br/> [6]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="row">
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux23.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Home Screen <br/> [7]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux21.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Tour Costs Prediction Screen<br/> [8]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="row">
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux22.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Tour Costs Prediction Details Screen <br/> [9]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/uiux24.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Tour Costs Prediction Screen<br/> [10]</p>
+                                            <div className="web-btn-nolink">
+                                                <p>Adobe XD</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div className="row">
                             <div className="col-md-6 col-sm-6">
                                 <div className="website-single-item">
