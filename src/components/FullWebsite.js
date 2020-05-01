@@ -115,6 +115,40 @@ class FullWebsite extends Component {
                                 </div>
                             </div>
                         </div>
+
+                        <div className="row">
+                            <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/website7.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>HTML Email Template Design</p>
+                                            <div className="web-btn">
+                                                <a rel="noopener noreferrer" href={`https://emailhtmltemplate.netlify.app/`} target="_blank">Live Demo</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {/* <div className="col-md-6 col-sm-6">
+                                <div className="website-single-item">
+                                    <div className="website-img">
+                                        <img src={require('../assets/website6.jpg')} alt=""/>
+                                    </div>
+                                    <div className="single-item-details">
+                                        <div className="web-single-txt">
+                                            <p>Ecommerce Website Template</p>
+                                            <div className="web-btn">
+                                                <a rel="noopener noreferrer" href={`https://ecommerceprojecttest.netlify.com/`} target="_blank">Live Demo</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> */}
+                        </div>
+
                     </div>
                 </div>
             </div>
